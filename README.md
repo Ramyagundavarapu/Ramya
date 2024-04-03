@@ -7,7 +7,11 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
+- 👨‍💻 All of my projects are available at [https://app.powerbi.com/groups/me/lineage?experience=power-bi](https://app.powerbi.com/groups/me/lineage?experience=power-bi)
+
 - 📫 How to reach me **sriramya.gundavarapu@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Md4hCk-WG3y_D_KwG1TEOPhRsJSvEJWN/view?usp=sharing](https://drive.google.com/file/d/1Md4hCk-WG3y_D_KwG1TEOPhRsJSvEJWN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramya</h1>
-<h3 align="center">"Unlocking Insights: A Data Analyst's Journey Towards Employment"</h3>
+<h3 align="center">"Experienced HR Professional Enhancing HR Operations & Data-Driven Decision Making"</h3>
 
 <img align="right" alt="coding" width="400" src="https://assets-global.website-files.com/59e16042ec229e00016d3a66/6317db6be014a127a8479a84_blog-hero%20(21).gif">
 

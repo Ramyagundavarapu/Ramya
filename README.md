@@ -7,7 +7,7 @@
 
 - 🌱 I am currently expanding my expertise in **HR Analytics**
 
-- 👨‍💻 All of my projects are available at [https://app.powerbi.com/groups/me?experience=power-bi](https://app.powerbi.com/groups/me?experience=power-bi)
+- 👨‍💻 All of my projects are available at [https://github.com/Ramyagundavarapu](https://github.com/Ramyagundavarapu)
 
 - 📫 How to reach me **sriramya.gundavarapu@gmail.com**
 

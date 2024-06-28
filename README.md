@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyagundavarapu&label=Profile%20views&color=0e75b6&style=flat" alt="ramyagundavarapu" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I am currently expanding my expertise in **HR Analytics**
 
 - 👨‍💻 All of my projects are available at [https://app.powerbi.com/groups/me?experience=power-bi](https://app.powerbi.com/groups/me?experience=power-bi)
 
 - 📫 How to reach me **sriramya.gundavarapu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Md4hCk-WG3y_D_KwG1TEOPhRsJSvEJWN/view?usp=sharing](https://drive.google.com/file/d/1Md4hCk-WG3y_D_KwG1TEOPhRsJSvEJWN/view?usp=sharing)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ramya-gundavarapu-b62784214/details/featured/1719556811231/single-media-viewer?type=DOCUMENT&profileId=ACoAADY4PXoBWrWEw9TiyP30FbMUN8-8OuLw8yk&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured_details%3B7AKx1%2BNAQnK2AkoxKSXYCA%3D%3D]([https://drive.google.com/file/d/1Md4hCk-WG3y_D_KwG1TEOPhRsJSvEJWN/view?usp=sharing](https://www.linkedin.com/in/ramya-gundavarapu-b62784214/details/featured/1719556811231/single-media-viewer?type=DOCUMENT&profileId=ACoAADY4PXoBWrWEw9TiyP30FbMUN8-8OuLw8yk&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured_details%3B7AKx1%2BNAQnK2AkoxKSXYCA%3D%3D))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
